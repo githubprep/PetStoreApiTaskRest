@@ -35,7 +35,7 @@
 
 
  `github_username` : "githubprep"
- `repo_link` :https://github.com/githubprep/PetsoreApiTask
+ `repo_link` :https://github.com/githubprep/PetsoreApiTaskRest
  `project_description` : The test automation is created by using **Cucumber** **BDD** framework with **RestAssured Library** for  API testing
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -111,7 +111,7 @@ it slows down the tests and the problem is from document. Sometimes (in general)
 
 Ahmet Akyürek -- akyurekahmet@gmail.com
 
-Project Link: https://github.com/githubprep/PetsoreApiTask
+Project Link: https://github.com/githubprep/PetsoreApiTaskRest
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
