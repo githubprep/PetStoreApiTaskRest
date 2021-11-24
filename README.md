@@ -35,7 +35,7 @@
 
 
  `github_username` : "githubprep"
- `repo_link` :https://github.com/githubprep/PetsoreApiTaskRest
+ `repo_link` :https://github.com/githubprep/PetStoreApiTaskRest
  `project_description` : The test automation is created by using **Cucumber** **BDD** framework with **RestAssured Library** for  API testing
 
 <p align="right">(<a href="#top">back to top</a>)</p>
